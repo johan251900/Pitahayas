@@ -19,7 +19,7 @@ const Navbar: React.FC = () => {
       {/* Iconos redes sociales */}
       <div className="social-icons-container">
         <div className="social-icons">
-          <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.facebook.com/profile.php?id=100054928470603&sk=about" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faFacebook} className="icon" />
           </a>
           <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
